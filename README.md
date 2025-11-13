@@ -2,7 +2,7 @@
 
 > Un jeu de plateforme 2D simple développé avec Unity. Ce projet sert d'exercice pour moi même, afin de découvrir l'univers Unity
 
-![Aperçu du jeu](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/55875ba6-7ea3-4c31-aeb4-a8b8f65210bc" />)
+![Aperçu du jeu](.Assets/Imports/illustration.png)
 
 ## 🚀 À propos du projet
 
