@@ -12,7 +12,7 @@ Ce projet est un jeu de plateforme 2D classique. Le joueur contrôle un personna
 
 * **Moteur de jeu :** Unity (Version 2022.3.46f1)
 * **Langage :** C#
-* **Assets graphiques :** Tilemap trouvé [sur OpenGameArt.org](https://opengameart.org/content/a-platformer-in-the-forest)
+* **Assets graphiques :** Tilemap trouvé sur [OpenGameArt.org](https://opengameart.org/content/a-platformer-in-the-forest)
 
 ## 🔧 Installation et Lancement
 
