@@ -21,7 +21,7 @@ Ce projet est un jeu de plateforme 2D classique. Le joueur contrôle un personna
 1.  Assurez-vous d'avoir [Unity Hub](https://unity.com/download) et la version d'Unity 2022.3.46f1 installés.
 2.  Clonez ce dépôt sur votre machine :
     ```bash
-    git clone [https://github.com/julot424/2D-Plateformer.git](https://github.com/julot424/2D-Plateformer.git)
+    git clone https://github.com/julot424/2D-Plateformer.git
     ```
 3.  Ouvrez Unity Hub, cliquez sur "Ouvrir" (ou "Add project"), et sélectionnez le dossier `2D-Plateformer` que vous venez de cloner.
 4.  Ouvrez la scène principale (ex: `Assets/Scenes/Main.unity`) et appuyez sur Play.
